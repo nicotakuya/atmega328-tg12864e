@@ -1,0 +1,1 @@
+void spfight(void);
