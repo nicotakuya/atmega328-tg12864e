@@ -5,6 +5,8 @@ AVRマイコンを使ってグラフィックLCDを制御するプログラム�
 ## Files
 Microchip studio 7.0で作りました。
 
+atmega328_tg12864e_schematics.png : 回路図です。
+
 ## Parts
 (U1)AVRマイコン ATmega328p	 
 
